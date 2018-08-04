@@ -12,7 +12,7 @@ The /hello handler hopefully satisfies the specifications/requirements of the as
 
 The included start_server.sh (linux style) bash file starts the server on port 5000
 
-The included run_tests.sh bash file uses curl to demonstrate the features of the /hello API
+The included run_test.sh bash file uses curl to demonstrate the features of the /hello API
 
 The basic idea is that a payload of {"name" : "Sam"} will result in a personalized greeting.
 
